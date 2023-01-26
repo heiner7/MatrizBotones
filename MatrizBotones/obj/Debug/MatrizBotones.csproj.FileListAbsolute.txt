@@ -1,0 +1,30 @@
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\MatrizBotones\MatrizBotones\bin\Debug\MatrizBotones.exe.config
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\MatrizBotones\MatrizBotones\bin\Debug\MatrizBotones.exe
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\MatrizBotones\MatrizBotones\bin\Debug\MatrizBotones.pdb
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.csprojResolveAssemblyReference.cache
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.Form1.resources
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.Properties.Resources.resources
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.csproj.GenerateResource.Cache
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.exe
+C:\Users\Heiner\Documents\Visual Studio 2017\Projects\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.pdb
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\MatrizBotones\MatrizBotones\bin\Debug\MatrizBotones.exe.config
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\MatrizBotones\MatrizBotones\bin\Debug\MatrizBotones.exe
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\MatrizBotones\MatrizBotones\bin\Debug\MatrizBotones.pdb
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.csprojResolveAssemblyReference.cache
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.Form1.resources
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.Properties.Resources.resources
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.csproj.GenerateResource.Cache
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.csproj.CoreCompileInputs.cache
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.exe
+C:\Users\Heiner\Desktop\Programacion 2\Asignasion 2\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.pdb
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\MatrizBotones\MatrizBotones\bin\Debug\MatrizBotones.exe.config
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\MatrizBotones\MatrizBotones\bin\Debug\MatrizBotones.exe
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\MatrizBotones\MatrizBotones\bin\Debug\MatrizBotones.pdb
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.csproj.AssemblyReference.cache
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.Form1.resources
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.Properties.Resources.resources
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.csproj.GenerateResource.cache
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.csproj.CoreCompileInputs.cache
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.exe
+G:\Archivos de Carrera\2018\I ciclo 2018\Programacion 2\Asignasion 2. Heiner Alvarez\MatrizBotones\MatrizBotones\obj\Debug\MatrizBotones.pdb
